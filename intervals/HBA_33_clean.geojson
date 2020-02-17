@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "output9570ed2cfd284ccea2875e38d7c2fada",
+"name": "output8468ce2ac4224bdcb08931e81a3cba16",
 "features": [
 { "type": "Feature", "properties": { "cat": 1, "SSC_CODE": "SSC60380", "SSC_CODE16": "60380", "SSC_NAME": "Marrawah", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 14464.51, "RAD_MEL": null, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 33.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.639860981000083, -40.917328998999949 ], [ 144.639894014000106, -40.91729899199999 ], [ 144.639877005000017, -40.917257995999933 ], [ 144.639751992000015, -40.917236997999971 ], [ 144.639770023000096, -40.917297991999931 ], [ 144.639860981000083, -40.917328998999949 ] ] ] } },
 { "type": "Feature", "properties": { "cat": 1, "SSC_CODE": "SSC60380", "SSC_CODE16": "60380", "SSC_NAME": "Marrawah", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 14464.51, "RAD_MEL": null, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 33.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.616262016000064, -40.94560600799997 ], [ 144.616359982000063, -40.945590004999985 ], [ 144.616432982000106, -40.945448 ], [ 144.616358011000102, -40.945446001999983 ], [ 144.616258001000119, -40.945525995999958 ], [ 144.616262016000064, -40.94560600799997 ] ] ] } },

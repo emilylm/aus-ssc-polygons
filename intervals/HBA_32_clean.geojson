@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "outputbb78e023a442406698b0023b0fc373e0",
+"name": "output508c67093e8a4d0c987b06c527f6d5dc",
 "features": [
 { "type": "Feature", "properties": { "cat": 1, "SSC_CODE": "SSC60020", "SSC_CODE16": "60020", "SSC_NAME": "Arthur River (Tas.)", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 3859.09, "RAD_MEL": null, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 32.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.648191997000026, -41.046626996999976 ], [ 144.64815998600011, -41.046568 ], [ 144.648076985000102, -41.046593992999931 ], [ 144.648118011000065, -41.046702994999976 ], [ 144.648191997000026, -41.046626996999976 ] ] ] } },
 { "type": "Feature", "properties": { "cat": 1, "SSC_CODE": "SSC60020", "SSC_CODE16": "60020", "SSC_NAME": "Arthur River (Tas.)", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 3859.09, "RAD_MEL": null, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 32.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 144.638836974000014, -41.043843005999975 ], [ 144.638896980000027, -41.043827002999933 ], [ 144.638886030000094, -41.043782991999933 ], [ 144.638754995000113, -41.043775 ], [ 144.638744994000035, -41.04383399599994 ], [ 144.638836974000014, -41.043843005999975 ] ] ] } },

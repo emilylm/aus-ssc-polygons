@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "output4c0cd57917214c9eb70912270a0ce3ab",
+"name": "outputaf3806bc099e491295f5ad626db146e5",
 "features": [
 { "type": "Feature", "properties": { "cat": 31, "SSC_CODE": "SSC60463", "SSC_CODE16": "60463", "SSC_NAME": "Nugara", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 6803.1, "RAD_MEL": 24.0, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 45.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 143.883839, -39.99769999199998 ], [ 143.883912, -39.997662992999949 ], [ 143.883874003000074, -39.997532992999936 ], [ 143.883814034000011, -39.997532992999936 ], [ 143.883767022000029, -39.997587993999957 ], [ 143.883768993000103, -39.997662992999949 ], [ 143.883839, -39.99769999199998 ] ] ] } },
 { "type": "Feature", "properties": { "cat": 31, "SSC_CODE": "SSC60463", "SSC_CODE16": "60463", "SSC_NAME": "Nugara", "STATE_CODE": "6", "STATE_NAME": "Tasmania", "AREA_HA": 6803.1, "RAD_MEL": 24.0, "RAD_ADL": null, "RAD_BNE": null, "RAD_SYD": null, "RAD_HBA": 45.0, "RAD_PER": null, "RAD_CAN": null, "RAD_DRW": null, "ORD_PREV": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 143.884027011000057, -40.00023800799994 ], [ 143.884142023000095, -40.000222004999955 ], [ 143.884160017000113, -40.000135 ], [ 143.884065008000107, -40.000096000999974 ], [ 143.883950033000019, -40.000151001999939 ], [ 143.883971020000104, -40.000228997999955 ], [ 143.884027011000057, -40.00023800799994 ] ] ] } },
